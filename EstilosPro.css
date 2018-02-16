@@ -1,0 +1,133 @@
+.divencabezado{
+    background: white;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    font-size: 2px;
+}
+b{
+    color: black;
+}
+.divtitulo{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    font-family: 'Abadi Extra Light';
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.Cuerpo {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+p #nocambia1{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    /*background: rgba(0,0,0,0.5);*/
+}
+.divh1h6{
+    background-color: white;
+    text-align: center;
+    border: 3px solid;
+    border-color: blue;
+}
+.divh1h6 #ejemh2{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.divimagenes{
+    background-color: white;
+    text-align: center;
+    border: 3px solid;
+    border-color: yellow;
+}
+.divimagenes #ejempimg1{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.divparrafo{
+    background-color: white;
+    color: black;
+    text-align: justify;
+    border: 3px solid;
+    border-color: green;
+}
+.divcitas{
+    background-color: white;
+    text-align: center;
+    border: 3px solid;
+    border-color: purple;
+}
+.divtablas{
+    background-color: white;
+    text-align: center;
+    border: 3px solid;
+    border-color:gray;
+}
+ 
+ table {
+    align-content: center;
+    border: 2px solid black;
+ }
+ 
+ #TablaCal{
+     border-collapse: collapse;
+ }
+.divinputs{
+    background-color: white;
+    border: 3px solid;
+    border-color:aqua;
+    margin: auto;
+}
+fieldset {
+    width: 100px;
+    height: 750px;
+}
+.divizq{
+    float: left;
+    background-color: white;
+    border: 3px solid;
+    border-color: gray;
+    width: 650px;
+    height: 350px;
+}
+.divder{
+    float: right;
+    background-color: white;
+    border: 3px solid;
+    border-color:brown;
+    width: 650px;
+    height: 350px;
+}
+.divlink{
+    background-color: white;
+    border: 3px solid;
+    border-color: orangered;
+}
+.divespeciales{
+    background-color: white;
+    border: 3px solid;
+    border-color: red;
+}
+blockquote{
+    color:blue;
+    font-size: 15px;
+    text-align: center;
+}
+cite{
+    color:orangered;
+    font-size: 15px;
+    text-align: center;
+} 
+th,
+td
+{
+    border: 2px solid;
+}
